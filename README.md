@@ -1,2 +1,2 @@
 # Faiz-Profile
-I have attached my Curriculum vitae
+Attached my Curriculum vitae
