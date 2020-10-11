@@ -2,6 +2,8 @@ Hello World!<img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb83
 
 I'm Faiz, currently working as a Data Engineer @ Tata Consultancy Services, India❤️, A former graduate from 🔭Thiagarajar College Of Engineering. Beside's programming, I enjoy eating food, traveling, marketing and networking with people.<br/>
 
+<img align="right" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500" height="320" />
+
 Talking about Personal Stuffs:<br/>
 🌱 I’m currently learning Machine Learning for IOT;<br/>
 👯 I’m looking to collaborate with fellow techies / business savvy people who are passionate about Digital Entrepreneurship;<br/>
